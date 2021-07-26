@@ -1,6 +1,9 @@
 # GSA Web Modernization Working Groups
 
-[Web Modernization Implementation Plan document](https://docs.google.com/document/d/1nbHbdd8dKKA4rcUWBmnzfKcMsXKGWDMUHlrDALb9Gy8/edit)
+GSA's Web Modernization Working Groups use this workspace to share our progress on improving our websites and digital servies. Overarching goals and tasks for each Working Group are documented in our [Web Modernization Implementation Plan document](https://docs.google.com/document/d/1nbHbdd8dKKA4rcUWBmnzfKcMsXKGWDMUHlrDALb9Gy8/edit)
+
+## IT Accessibility Training Project
+- In addition to the tasks outlined in the Implementation Plan, all groups are collaborating to improve accessibility-related knowledge and skills within GSA. By training our employees on expectations and basic skill, we expect to see an improvement in the accessibility of our digital products and services.
 
 ### Training
 - Overall coordination
