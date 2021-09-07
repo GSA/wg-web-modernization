@@ -32,6 +32,7 @@ This workspace is for GSA's Web Modernization Working Groups to share how we're 
 - Identify enterprise SEO management tool(s) and create a plan to roll out across the enterprise.
 - Standardize all website customer satisfaction surveys, following the guidance in OMB Circular A-11, Section 280.
 - Ensure content contributors understand how to write content in plain language, using the same words customers would type into search engines to find our content.
+- Report: [Working Group Feedback](https://docs.google.com/document/d/1aVGYBqTwLe5YES9kRNsrk2-RxDJBUMFWVoaVO8vxIOE/edit#heading=h.1gee5ww0jpvn)
 
 ## Technology & Infrastructure Working Group Activities
 - Clarify criteria for a “customized digital experience."
