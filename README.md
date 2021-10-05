@@ -1,6 +1,6 @@
 # GSA Web Modernization Working Groups
 
-This workspace is for GSA's Web Modernization Working Groups to share how we're improving our websites and digital servies. Overarching goals and tasks for each Working Group are documented in our [Web Modernization Implementation Plan](https://docs.google.com/document/d/1nbHbdd8dKKA4rcUWBmnzfKcMsXKGWDMUHlrDALb9Gy8/edit). _(Note, document is internal to GSA.)_
+This workspace is for GSA's Web Modernization Working Groups to share how we're improving our websites and digital servies. Overarching goals and tasks for each Working Group are documented in our [Web Modernization Implementation Plan](https://docs.google.com/document/d/1nbHbdd8dKKA4rcUWBmnzfKcMsXKGWDMUHlrDALb9Gy8/edit), derived from the [Roadmap for the Digital Future of GSA](https://docs.google.com/document/d/1XjFGM-bN7lOLtWMDxrQbR9q6lG5iDsgYf_Z2E1yIyu8/edit#heading=h.xief23a14tjm). _(Note, documents are internal to GSA.)_
 
 ## IT Accessibility Working Group Activities
 - Develop or identify a "Basics of IT Accessibility" training course for GSA employees
