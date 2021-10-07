@@ -1,8 +1,11 @@
 # GSA Web Modernization Working Groups
-
-This workspace is for GSA's Web Modernization Working Groups to share how we're improving our websites and digital servies. Overarching goals and tasks for each Working Group are documented in our [Web Modernization Implementation Plan](https://docs.google.com/document/d/1nbHbdd8dKKA4rcUWBmnzfKcMsXKGWDMUHlrDALb9Gy8/edit), derived from the [Roadmap for the Digital Future of GSA](https://docs.google.com/document/d/1XjFGM-bN7lOLtWMDxrQbR9q6lG5iDsgYf_Z2E1yIyu8/edit#heading=h.xief23a14tjm). _(Note, documents are internal to GSA.)_
+This workspace is for GSA's Web Modernization Working Groups to share how we're improving our websites and digital services.
+Overarching goals and tasks for each Working Group are documented in our
+[Web Modernization Implementation Plan](https://docs.google.com/document/d/1nbHbdd8dKKA4rcUWBmnzfKcMsXKGWDMUHlrDALb9Gy8/edit), derived from the
+[Roadmap for the Digital Future of GSA](https://docs.google.com/document/d/1XjFGM-bN7lOLtWMDxrQbR9q6lG5iDsgYf_Z2E1yIyu8/edit#heading=h.xief23a14tjm). _(Note, documents are internal to GSA.)_
 
 ## IT Accessibility Working Group Activities
+- [Issues#wg-accessibility](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Accessibility)
 - Develop or identify a "Basics of IT Accessibility" training course for GSA employees
 - Continue accessibility content rationalization efforts, and decommission ancillary 508-related sites; document best practices that can be applied to rationalize other content topic areas across GSA.
 - Create and implement an “Accessible Content Creator Certification” program.
@@ -11,12 +14,14 @@ This workspace is for GSA's Web Modernization Working Groups to share how we're 
 - Implement a routine and consistent website testing and evaluation process for GSA, such as the DHS Trusted Tester Process or equivalent testing protocol that conforms to the ICT Baseline.
 
 ## Design & UX Working Group Activities
+- [Issues#wg-design](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Design)
 - Adopt and implement standard authentication page templates.
 - Ensure all GSA sites have implemented a standard banner, identifier, and footer, as part of US Web Design System (USWDS) implementation.
 - Ensure all sites follow the Eight Principles of Mobile-Friendliness.
 - Rationalize GSA’s technology blogs.
 
 ## Governance & Content Strategy Working Group Activities
+- [Issues#wg-content](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Content)
 - Adopt and use GSA digital tools and services whenever possible.
 - Consistently apply branding according to GSA Design Guidelines.
 - Develop business processes to coordinate digital content development and management across the GSA enterprise (e.g., lane managers).
@@ -25,6 +30,7 @@ This workspace is for GSA's Web Modernization Working Groups to share how we're 
 - Update and consistently follow GSA’s linking policy.
 
 ## Reach, Research & Data Working Group Activities
+- [Issues#wg-reach](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Reach+)
 - Benchmark and share data on standard questions.
 - Ensure all GSA site managers have access to the Digital Analytics Program (DAP) to gather quantitative data about site usage.
 - Ensure all sites include a search function such as Search.gov.
@@ -35,16 +41,20 @@ This workspace is for GSA's Web Modernization Working Groups to share how we're 
 - Report: [Working Group Feedback](https://docs.google.com/document/d/1aVGYBqTwLe5YES9kRNsrk2-RxDJBUMFWVoaVO8vxIOE/edit#heading=h.1gee5ww0jpvn)
 
 ## Technology & Infrastructure Working Group Activities
+- [Issues#wg-tech](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Tech)
 - Clarify criteria for a “customized digital experience."
 - Ensure all sites are running Digital Analytics Program (DAP) code, to inform GSA’s enterprise website inventory, and enable monitoring for compliance with security policies.
 - Identify which GSA sites could benefit from customization.
 - Help site managers understand how to implement customization when possible and beneficial to customers.
 
 ## Training Working Group Activities
+- [Issues#wg-training](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Training)
 - Increase awareness and adoption of GSA and federal guidelines and policies for federal public websites.
 - Identify existing low-/no-cost training courses to help GSA teams implement 21st Century IDEA
 - Identify or develop an “Intro to Federal Web Management” training course
 - Develop and support implementation of an IT accessibility training plan for GSA employees
+
+---
 
 ## IT Accessibility Training Project
 In addition to the tasks outlined in the Implementation Plan, we're working to improve accessibility-related knowledge and skills within GSA. Providing better training to our employees should lead to better accessibility of our digital products and services. High-level activities for each group are outlined below.
@@ -59,7 +69,7 @@ In addition to the tasks outlined in the Implementation Plan, we're working to i
 - Outreach & marketing
 
 ### Governance & Content Strategy
-- Collaborate with 508 Team to review/refresh of 508 and style guidance on InSite- 
+- Collaborate with 508 Team to review/refresh of 508 and style guidance on InSite-
 
 ### Design & UX
 - Test content (both training courses and InSite)
