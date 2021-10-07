@@ -12,10 +12,9 @@ Goals and tasks for each Working Group are documented in the
 - [Design & UX Working Group](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Design)
 - [Governance & Content Strategy](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Content)
 - [Reach, Research & Data](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Reach+)
+  - Report: [Working Group Feedback](https://docs.google.com/document/d/1aVGYBqTwLe5YES9kRNsrk2-RxDJBUMFWVoaVO8vxIOE/edit#heading=h.1gee5ww0jpvn)
 - [Technology & Infrastructure](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Tech)
 - [Training](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Training)
-
-Report: [Working Group Feedback](https://docs.google.com/document/d/1aVGYBqTwLe5YES9kRNsrk2-RxDJBUMFWVoaVO8vxIOE/edit#heading=h.1gee5ww0jpvn)
 
 ---
 
