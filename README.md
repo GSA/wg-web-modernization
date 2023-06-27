@@ -7,7 +7,7 @@ Goals and tasks for each Working Group are documented in the
 #### Members
 * [WebMod Working Group Roster](https://docs.google.com/spreadsheets/d/1U0KXsO6HPXkbwT5npqRIjbIQhRX3LPxymObSrhziazI/edit#gid=718324354)
 
-## Working Group Activities
+## Working Groups
 - [Accessibility](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Accessibility)
 - [Design/UX](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Design)
 - [Content Management](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Content)
