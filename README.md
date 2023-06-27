@@ -8,14 +8,14 @@ Goals and tasks for each Working Group are documented in the
 * [WebMod Working Group Roster](https://docs.google.com/spreadsheets/d/1U0KXsO6HPXkbwT5npqRIjbIQhRX3LPxymObSrhziazI/edit#gid=718324354)
 
 ## Working Group Activities
-- [IT Accessibility](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Accessibility)
-- [Design & UX Working Group](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Design)
-- [Governance & Content Strategy](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Content)
+- [Accessibility](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Accessibility)
+- [Design/UX](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Design)
+- [Content Management](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Content)
+- [Tech Modernization](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Tech)
+### Past Working Groups
+- [Training](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Training)
 - [Reach, Research & Data](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Reach+)
   - Report: [Working Group Feedback](https://docs.google.com/document/d/1aVGYBqTwLe5YES9kRNsrk2-RxDJBUMFWVoaVO8vxIOE/edit#heading=h.1gee5ww0jpvn)
-- [Technology & Infrastructure](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Tech)
-- [Training](https://github.com/GSA/wg-web-modernization/issues?q=is%3Aopen+is%3Aissue+label%3AWG-Training)
-
 ---
 
 ## IT Accessibility Training Project
